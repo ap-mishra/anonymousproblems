@@ -43,7 +43,7 @@ def check_palindrome(n):
             return n
 
 if __name__=='__main__':
-    #do something
+    # do something
     print "something"
 
     nos = range(999,99,-1)
